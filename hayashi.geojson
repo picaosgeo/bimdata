@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "marker-color": "#0a74e6",
+        "marker-size": "medium",
+        "Hotel name": "Hotel Cosmos",
+        "who": "hayashi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.252553462982178,
+          43.78041320485151
+        ]
+      }
+    }
+  ]
+}
