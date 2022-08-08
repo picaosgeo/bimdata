@@ -4,7 +4,8 @@
     <Camera>
       <longitude>133.363194021656</longitude>
       <latitude>34.4855838886335</latitude>
-      <altitude>42.1</altitude><altitudeMode>absolute</altitudeMode>
+      <altitude>82.1</altitude>
+      <altitudeMode>absolute</altitudeMode>
       <heading>0</heading>
       <tilt>0</tilt>
       <roll>0</roll>
