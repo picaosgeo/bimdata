@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+
+ <Document>
+
+   <Style id="blue-dot">
+   <IconStyle>
+   <Icon>
+   <href>http://maps.google.co.jp/mapfiles/ms/icons/blue-dot.png</href>
+   </Icon>
+   </IconStyle>
+   </Style>
+
+       <Placemark>
+         <name>1</name>
+         <description>
+         <![CDATA[
+         <div>X=-17340.380</div>
+         <div>Y=-11183.280</div>
+          ]]>
+         </description>
+         <Point>
+           <coordinates>139.70953179999998,35.8436412,0</coordinates>
+         </Point>
+         <styleUrl>#blue-dot</styleUrl>
+       </Placemark>
+
+ </Document>
+</kml>
