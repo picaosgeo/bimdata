@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+
+ <Document>
+
+   <Style id="grn-pushpin">
+   <IconStyle>
+   <Icon>
+   <href>https://maps.google.com/mapfiles/ms/micons/grn-pushpin.png</href>
+   </Icon>
+   </IconStyle>
+   </Style>
+
+       <Placemark>
+         <name>大宮管渠人孔-赤 基点座標</name>
+         <description>
+         <![CDATA[
+         <div>X=-17340.380</div>
+         <div>Y=-11183.280</div>
+          ]]>
+         </description>
+         <Point>
+           <coordinates>139.8333333333,36.0,0</coordinates>
+         </Point>
+         <styleUrl>#blue-dot</styleUrl>
+       </Placemark>
+
+ </Document>
+</kml>
