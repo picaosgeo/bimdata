@@ -3,10 +3,10 @@
 
  <Document>
 
-   <Style id="ltblu-dot">
+   <Style id="pink-dot">
    <IconStyle>
    <Icon>
-   <href>https://maps.google.com/mapfiles/ms/icons/ltblu-dot.png</href>
+   <href>https://maps.google.com/mapfiles/ms/icons/pink-dot.png</href>
    </Icon>
    </IconStyle>
    </Style>
@@ -22,7 +22,7 @@
          <Point>
            <coordinates>139.83441162083335,35.999982297222225,0</coordinates>
          </Point>
-         <styleUrl>#ltblu-dot</styleUrl>
+         <styleUrl>#pink-dot</styleUrl>
        </Placemark>
 
  </Document>
