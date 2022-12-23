@@ -3,10 +3,10 @@
 
  <Document>
 
-   <Style id="grn-pushpin">
+   <Style id="green-dot">
    <IconStyle>
    <Icon>
-   <href>https://maps.google.com/mapfiles/ms/icons/grn-pushpin.png</href>
+   <href>https://maps.google.com/mapfiles/ms/icons/green-dot.png</href>
    </Icon>
    </IconStyle>
    </Style>
